@@ -6,10 +6,7 @@ order: 10000
 # Home
 Are you tired of dealing with spammy userbot raids on your Discord server? Beemo might just be the solution you've been looking for! Beemo is a free antispam Discord Bot that can help you put an end to those pesky raids once and for all.
 
-!!!warning Important Note
-!!!
-
-!!!success You can skip this step
+!!!success You can skip this
 Slash commands have been added to Beemo.
 !!!
 
