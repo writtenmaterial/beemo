@@ -1,0 +1,18 @@
+input: .
+output: .retype
+favicon: /assets/branding/logo.png
+meta:
+  title: " | Beemo Docs"
+url: # Add your website address here
+branding:
+  logo: /assets/branding/logo.png
+  label: Antibot
+links:
+- text: Home
+  link: https://beemo.gg/
+- text: Tiers
+  link: https://beemo.gg/subscribe
+- text: Support
+  link: https://beemo.gg/discord
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
