@@ -9,6 +9,10 @@ Are you tired of dealing with spammy userbot raids on your Discord server? Beemo
 !!!warning Important Note
 !!!
 
+!!!success You can skip this step
+Slash commands have been added to Beemo.
+!!!
+
 First of all, it's worth noting that Beemo doesn't currently use Discord's slash commands. So, if another bot is using the slash command `/help`, you won't be able to type `/help` to use Beemo. But don't worry - we've got a temporary fix for you! Simply add a space in front of any command that might be taken by another bot's slash commands. For example, you can type `<space>/help` instead of `/help`.
 
 Now, you may have noticed that the documentation for Beemo Max is a bit limited. But don't worry, we've got you covered. Since Beemo is designed to be configured in-Discord, all of the commands are generally well documented via their respective help menus. And if you still need more information or have questions, feel free to join our Discord community - we'd love to help you out! 
